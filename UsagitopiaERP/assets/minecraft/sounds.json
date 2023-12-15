@@ -1,0 +1,24 @@
+{
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "usagitopia:music/bgm/01",
+        "steam": true
+      },
+      {
+        "name": "usagitopia:music/bgm/50",
+        "steam": true
+      }
+    ]
+  },
+  "music.credits": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "usagitopia:music/bgm/51",
+        "stream": true
+      }
+    ]
+  }
+}
